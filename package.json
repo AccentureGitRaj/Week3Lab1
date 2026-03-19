@@ -1,0 +1,23 @@
+{
+  "name": "week3lab1",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AccentureGitRaj/Week3Lab1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AccentureGitRaj/Week3Lab1/issues"
+  },
+  "homepage": "https://github.com/AccentureGitRaj/Week3Lab1#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
